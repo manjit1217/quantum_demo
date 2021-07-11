@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 10 22:30:54 IST 2021
+@default-jai-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1625936454212
+@default-perfectomobile-https\://repo1.perfectomobile.com/public/repositories/maven/.lastUpdated=1625936454204
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1625936454220
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:sources\:1.4.01 from/to jai (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: Transfer failed for https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:sources\:1.4.01 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar
+https\://repo1.perfectomobile.com/public/repositories/maven/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:sources\:1.4.01 from/to perfectomobile (https\://repo1.perfectomobile.com/public/repositories/maven)\: Transfer failed for https\://repo1.perfectomobile.com/public/repositories/maven/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar

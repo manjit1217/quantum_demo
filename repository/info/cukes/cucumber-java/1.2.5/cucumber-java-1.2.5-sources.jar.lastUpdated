@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 10 22:30:54 IST 2021
+@default-jai-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1625936454140
+@default-perfectomobile-https\://repo1.perfectomobile.com/public/repositories/maven/.lastUpdated=1625936454132
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1625936454148
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact info.cukes\:cucumber-java\:jar\:sources\:1.2.5 from/to jai (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: Transfer failed for https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5-sources.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact info.cukes\:cucumber-java\:jar\:sources\:1.2.5 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5-sources.jar
+https\://repo1.perfectomobile.com/public/repositories/maven/.error=Could not transfer artifact info.cukes\:cucumber-java\:jar\:sources\:1.2.5 from/to perfectomobile (https\://repo1.perfectomobile.com/public/repositories/maven)\: Transfer failed for https\://repo1.perfectomobile.com/public/repositories/maven/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5-sources.jar

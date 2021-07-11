@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 10 22:43:16 IST 2021
+@default-jai-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1625936129599
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1625936129607
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact com.quantum\:quantum-support\:pom\:1.23.0 from/to jai (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: Transfer failed for https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/com/quantum/quantum-support/1.23.0/quantum-support-1.23.0.pom
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.quantum\:quantum-support\:pom\:1.23.0 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/com/quantum/quantum-support/1.23.0/quantum-support-1.23.0.pom
+https\://repo1.perfectomobile.com/public/repositories/maven/.lastUpdated=1625937196452

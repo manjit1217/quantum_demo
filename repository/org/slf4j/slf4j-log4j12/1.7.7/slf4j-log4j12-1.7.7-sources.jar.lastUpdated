@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 10 22:30:54 IST 2021
+@default-jai-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1625936454380
+@default-perfectomobile-https\://repo1.perfectomobile.com/public/repositories/maven/.lastUpdated=1625936454372
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1625936454388
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:jar\:sources\:1.7.7 from/to jai (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: Transfer failed for https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7-sources.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:jar\:sources\:1.7.7 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7-sources.jar
+https\://repo1.perfectomobile.com/public/repositories/maven/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:jar\:sources\:1.7.7 from/to perfectomobile (https\://repo1.perfectomobile.com/public/repositories/maven)\: Transfer failed for https\://repo1.perfectomobile.com/public/repositories/maven/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7-sources.jar
